@@ -16,7 +16,10 @@ My Python environment is ready
 ## Running git status command
 
 Command: `git status`
-Output:
+Output: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
 
 ## List of Extensions
 Command: `code --list-extensions`
