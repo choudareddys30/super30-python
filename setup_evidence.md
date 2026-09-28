@@ -13,6 +13,11 @@ Command: `python hello.py`
 Output: Hello Super30
 My Python environment is ready
 
+## Running git status command
+
+Command: `git status`
+Output:
+
 ## List of Extensions
 Command: `code --list-extensions`
 Output: andys8.jest-snippets
